@@ -1,0 +1,1089 @@
+model_data/train/162.jpg 20,23,56,54,3
+model_data/train/a618bd89042aca9fbede30d7e67c7628.jpg 30,53,104,98,47 376,220,409,233,47
+model_data/train/604.jpg 165,11,204,24,14
+model_data/train/88.jpg 17,251,110,329,1
+model_data/train/610.jpg 143,79,282,104,14
+model_data/train/1353.jpg 205,181,239,203,40
+model_data/train/1347.jpg 158,158,196,176,40
+model_data/train/suppply4.jpg 176,147,215,176,8 197,147,215,176,34
+model_data/train/77.jpg 276,183,289,202,1 59,99,71,124,1
+model_data/train/4e9b2fc7ac1f860d01d1353ab1c17494.jpg 125,64,222,103,10 227,66,301,105,39
+model_data/train/2308dfda6a55b911b0ff25bd5aea2eb8.jpg 69,81,223,131,10 236,78,344,130,39
+model_data/train/406.jpg 189,117,341,303,38 69,63,176,353,37
+model_data/train/1186.jpg 150,39,265,301,29
+model_data/train/cctvnew26.jpg 70,126,125,152,49
+model_data/train/1151.jpg 197,301,229,317,28
+model_data/train/suppply144.jpg 17,170,133,201,40 52,85,105,162,11
+model_data/train/suppply150.jpg 189,153,209,182,11
+model_data/train/cctvnew32.jpg 166,85,246,111,49
+model_data/train/1145.jpg 157,171,174,198,28
+model_data/train/suppply178.jpg 165,121,250,295,37
+model_data/train/1179.jpg 206,39,259,98,28 35,184,44,201,28
+model_data/train/214.jpg 92,70,268,336,5
+model_data/train/200.jpg 7,12,25,39,4
+model_data/train/566.jpg 20,271,43,298,13 19,302,44,310,41
+model_data/train/228.jpg 13,66,400,377,5
+model_data/train/389f5e8d6edf1fc67a2039f0073af0d4.jpg 61,72,324,315,20 81,163,305,210,47
+model_data/train/1019.jpg 256,38,267,56,24
+model_data/train/suppplies34.jpg 85,156,256,220,44
+model_data/train/cctv27.jpg 172,233,235,263,0
+model_data/train/suppplies20.jpg 212,296,253,327,18 257,292,276,311,46 227,208,262,223,18 353,34,384,52,18 384,39,403,52,46
+model_data/train/bd6a7784efbcc5ce991985e162a49351.jpg 109,274,265,316,41 135,59,272,236,13
+model_data/train/980.jpg 40,0,312,318,23
+model_data/train/c4c770bf277cd7a0392e00c647b271c0.jpg 13,18,289,85,17
+model_data/train/suppply11.jpg 222,189,260,234,20 228,208,252,213,47
+model_data/train/suppply39.jpg 86,146,137,161,30 277,156,317,169,30
+model_data/train/957.jpg 199,200,239,226,23
+model_data/train/942.jpg 51,38,87,77,23 179,207,219,234,23 193,109,204,123,23
+model_data/train/suppply38.jpg 37,191,94,253,6 37,253,92,275,30 87,318,96,328,6
+model_data/train/956.jpg 123,102,160,137,23 254,214,295,239,23
+model_data/train/suppply10.jpg 275,227,302,266,20 279,244,298,251,47
+model_data/train/1226.jpg 44,158,359,210,44
+model_data/train/981.jpg 268,103,298,137,24 58,84,264,340,24
+model_data/train/suppplies21.jpg 73,13,111,31,46 8,6,71,33,18
+model_data/train/598.jpg 104,381,141,389,14
+model_data/train/cctv26.jpg 179,275,199,311,0
+model_data/train/suppplies35.jpg 62,55,261,109,35 262,55,332,109,36
+model_data/train/1018.jpg 260,277,279,301,24
+model_data/train/1024.jpg 293,104,355,179,25 183,104,284,134,48
+model_data/train/215.jpg 20,40,384,385,5
+model_data/train/1178.jpg 307,335,328,357,28
+model_data/train/suppply179.jpg 75,34,340,323,37
+model_data/train/suppply151.jpg 107,193,121,221,11
+model_data/train/cctvnew33.jpg 45,170,371,245,49
+model_data/train/1150.jpg 194,213,221,243,28
+model_data/train/cctvnew27.jpg 170,217,254,255,49
+model_data/train/suppply145.jpg 94,197,106,223,11
+model_data/train/375.jpg 146,136,277,266,9
+model_data/train/1187.jpg 188,70,227,189,29
+model_data/train/1193.jpg 168,29,254,350,29
+model_data/train/407.jpg 101,74,319,329,37
+model_data/train/suppply186.jpg 229,17,279,50,37 243,56,265,64,38
+model_data/train/836.jpg 332,223,348,256,20
+model_data/train/188.jpg 26,7,77,34,4
+model_data/train/suppply5.jpg 91,253,130,290,8 112,253,130,290,34
+model_data/train/1346.jpg 123,340,156,362,40
+model_data/train/1352.jpg 166,322,226,363,40
+model_data/train/611.jpg 67,183,252,209,14 135,118,163,125,14
+model_data/train/89.jpg 71,121,96,137,1
+model_data/train/177.jpg 1,74,37,117,4
+model_data/train/175.jpg 9,8,36,52,4
+model_data/train/613.jpg 159,19,253,38,14
+model_data/train/607.jpg 24,30,104,45,14
+model_data/train/161.jpg 198,244,235,286,3
+model_data/train/d81174f763b17d26b6ec436051d527b4.jpg 33,104,191,146,10 201,112,322,150,39
+model_data/train/149.jpg 26,18,65,40,3
+model_data/train/808.jpg 184,204,217,247,19
+model_data/train/1350.jpg 223,115,269,132,40 141,128,159,135,40
+model_data/train/74.jpg 261,284,277,316,1 281,275,300,298,1
+model_data/train/suppply7.jpg 165,118,192,152,22
+model_data/train/1185.jpg 192,102,224,209,29
+model_data/train/377.jpg 106,182,137,217,9 178,161,288,215,36 178,217,231,243,38
+model_data/train/363.jpg 138,111,168,133,8 153,110,169,133,34
+model_data/train/onehalf20.jpg 22,27,42,63,2
+model_data/train/405.jpg 147,83,195,158,9 209,99,269,144,38
+model_data/train/1191.jpg 174,104,244,289,29
+model_data/train/cctvnew31.jpg 36,75,173,109,49
+model_data/train/1146.jpg 82,247,99,268,28
+model_data/train/suppply153.jpg 158,183,173,207,11
+model_data/train/3a49a6e8f206f0dd3852505b95260a71.jpg 119,34,246,119,18 253,54,324,117,46
+model_data/train/1152.jpg 49,294,63,309,28
+model_data/train/cctvnew19.jpg 286,110,370,143,49 295,188,319,199,49
+model_data/train/203.jpg 165,70,189,96,4 172,15,217,40,4 260,337,269,356,4
+model_data/train/217.jpg 110,72,319,299,5
+model_data/train/559.jpg 34,50,390,405,13
+model_data/train/1032.jpg 30,30,386,385,25
+model_data/train/1026.jpg 98,112,153,196,25 157,132,314,238,48
+model_data/train/cctv18.jpg 114,151,181,185,0
+model_data/train/suppplies23.jpg 58,36,183,113,35 180,90,217,128,36
+model_data/train/cctv30.jpg 156,264,229,316,0
+model_data/train/suppplies37.jpg 36,14,47,28,36 6,12,36,29,35
+model_data/train/cctv24.jpg 24,28,60,50,0
+model_data/train/983.jpg 160,138,199,182,24
+model_data/train/suppply12.jpg 174,233,192,263,20
+model_data/train/1224.jpg 26,175,377,239,44
+model_data/train/940.jpg 73,136,182,280,22
+model_data/train/954.jpg 143,49,192,98,23
+model_data/train/1219.jpg 202,208,210,245,29
+model_data/train/955.jpg 196,128,223,157,23 186,223,231,261,23
+model_data/train/799.jpg 83,108,326,204,19
+model_data/train/941.jpg 240,160,292,197,23 76,5,118,40,23
+model_data/train/969.jpg 193,200,252,228,23 211,114,231,127,23 203,270,236,292,23
+model_data/train/suppply13.jpg 16,26,43,69,4
+model_data/train/1231.jpg 85,159,258,221,44
+model_data/train/996.jpg 327,203,347,223,24 76,155,88,171,24
+model_data/train/982.jpg 155,43,203,89,24
+model_data/train/cctv25.jpg 67,194,221,316,0
+model_data/train/suppplies36.jpg 68,180,296,265,35 298,208,353,264,36 119,45,198,114,36
+model_data/train/226d3d9a0dc0d03cc84c9ab001e03ec8.jpg 31,113,384,197,10 85,234,342,315,39
+model_data/train/suppplies22.jpg 337,27,370,45,18 371,32,390,47,46
+model_data/train/cctv19.jpg 20,139,300,247,0
+model_data/train/1027.jpg 172,70,282,146,25 128,136,323,194,48 160,284,239,304,48 68,310,94,330,25
+model_data/train/558.jpg 127,129,153,171,13
+model_data/train/69d73f63709a9b581637ed7ea038ae2a.jpg 87,116,264,182,17
+model_data/train/216.jpg 11,1,399,413,5
+model_data/train/570.jpg 214,295,237,317,13 62,0,111,52,13 64,65,120,76,41
+model_data/train/564.jpg 200,144,276,272,13
+model_data/train/70c6d2e862e7c4fbcc0bfcaac138d323.jpg 16,119,152,153,10 163,119,260,151,39
+model_data/train/6d806497f50c4c9b604778c4d17f090b.jpg 160,116,273,238,13 154,264,278,295,41
+model_data/train/389.jpg 287,56,366,83,35
+model_data/train/suppply146.jpg 27,0,355,125,21
+model_data/train/1153.jpg 62,193,80,220,28
+model_data/train/cctvnew24.jpg 227,116,267,137,49
+model_data/train/1147.jpg 200,212,223,232,28
+model_data/train/cctvnew30.jpg 281,259,319,277,49
+model_data/train/suppply152.jpg 276,182,294,209,11
+model_data/train/85ee606f15d1fdfe041c1363ba5f99a6.jpg 65,111,256,186,18 258,139,352,188,46
+model_data/train/suppply185.jpg 7,13,408,352,37
+model_data/train/1190.jpg 188,71,226,186,29
+model_data/train/onehalf21.jpg 44,178,266,246,35 269,178,360,246,36
+model_data/train/410.jpg 83,64,325,343,9
+model_data/train/1184.jpg 236,259,244,287,29
+model_data/train/376.jpg 25,16,52,28,35 52,18,62,29,36 358,33,382,46,35 382,36,391,44,36 25,250,307,329,35 308,253,403,329,36
+model_data/train/61.jpg 99,67,119,94,1
+model_data/train/suppply6.jpg 262,184,282,221,20
+model_data/train/1351.jpg 162,100,206,133,40 138,215,237,299,40 335,93,351,102,40
+model_data/train/809.jpg 179,200,228,224,19
+model_data/train/1345.jpg 162,228,250,296,40 199,141,233,163,40
+model_data/train/148.jpg 309,140,341,151,3
+model_data/train/606.jpg 132,117,218,256,14
+model_data/train/160.jpg 1,0,26,19,3
+model_data/train/174.jpg 24,26,50,65,4
+model_data/train/612.jpg 163,101,242,111,14
+model_data/train/616.jpg 56,263,122,327,14
+model_data/train/602.jpg 39,71,385,216,14
+model_data/train/suppply2.jpg 92,33,240,130,21
+model_data/train/65.jpg 132,127,177,175,1 360,105,389,134,1
+model_data/train/1341.jpg 200,105,241,135,40
+model_data/train/1355.jpg 227,161,247,190,40
+model_data/train/59.jpg 101,80,329,235,1
+model_data/train/819.jpg 170,71,196,108,19
+model_data/train/onehalf19.jpg 16,21,31,33,2
+model_data/train/372.jpg 160,149,258,263,9
+model_data/train/366.jpg 133,143,251,260,8 209,143,251,257,34
+model_data/train/suppply181.jpg 33,150,88,186,37 129,150,189,187,37 146,195,172,204,38 47,195,74,203,38 228,195,255,203,38
+model_data/train/suppply156.jpg 322,146,341,173,11
+model_data/train/cctvnew34.jpg 237,156,270,171,49
+model_data/train/1143.jpg 348,192,363,226,28
+model_data/train/cctvnew20.jpg 237,154,270,173,49
+model_data/train/suppply142.jpg 78,292,289,365,40 99,81,267,277,11
+model_data/train/560.jpg 199,160,216,184,13
+model_data/train/212.jpg 0,1,416,413,5
+model_data/train/suppplies26.jpg 7,2,89,33,18 93,9,143,32,46
+model_data/train/suppplies32.jpg 91,64,261,116,44
+model_data/train/eb22259ea5add73722b7747297dbbd88.jpg 144,87,364,118,17
+model_data/train/cctv21.jpg 212,227,247,246,0
+model_data/train/986.jpg 123,35,301,200,24
+model_data/train/3ee1f19baaf6bb20d945803e05faea54.jpg 118,3,160,62,45 164,6,274,53,15
+model_data/train/ad45e8f37e0f3618ef7ea2efca337d44.jpg 103,110,276,184,17
+model_data/train/945.jpg 175,80,204,113,23 273,176,299,194,23
+model_data/train/1209.jpg 214,222,224,255,29
+model_data/train/cctv9.jpg 108,221,190,273,0
+model_data/train/aa800309ad993b62b014fdc7010d50ce.jpg 99,217,208,247,10 124,91,188,105,10 216,214,293,244,39 191,89,238,104,39
+model_data/train/onehalf8.jpg 14,163,252,234,35 253,143,410,239,36
+model_data/train/979.jpg 135,42,287,238,23
+model_data/train/1235.jpg 93,152,343,255,44
+model_data/train/suppply17.jpg 262,184,283,224,20
+model_data/train/1220.jpg 240,236,258,298,29
+model_data/train/1234.jpg 48,16,201,183,44
+model_data/train/978.jpg 114,11,268,195,23
+model_data/train/suppply16.jpg 192,218,221,259,20
+model_data/train/onehalf9.jpg 13,157,251,232,35 252,145,408,239,36
+model_data/train/cctv8.jpg 80,99,154,156,0
+model_data/train/1208.jpg 84,197,97,244,29
+model_data/train/944.jpg 166,197,236,227,23 172,89,187,106,23
+model_data/train/cb59bfdda80db3b04dc8f16194d717fa.jpg 206,55,305,121,47 86,183,133,210,47
+model_data/train/987.jpg 132,212,223,296,24
+model_data/train/cctv20.jpg 235,257,254,295,0
+model_data/train/suppplies33.jpg 42,158,361,207,44
+model_data/train/7a29aa0b22f873dbf1fe205e344bd6a1.jpg 11,13,107,38,10 114,13,184,36,39 182,200,204,211,10
+model_data/train/suppplies27.jpg 187,205,243,234,35 243,203,266,228,36
+model_data/train/549.jpg 232,247,251,280,13
+model_data/train/1156.jpg 214,251,231,275,28
+model_data/train/cctvnew21.jpg 165,178,205,199,49
+model_data/train/suppply143.jpg 29,128,387,177,40
+model_data/train/suppply157.jpg 35,33,159,59,21
+model_data/train/1142.jpg 262,230,275,244,28
+model_data/train/cctvnew35.jpg 200,108,342,173,49
+model_data/train/398.jpg 131,93,223,126,35 317,260,327,271,38 119,269,129,277,38 224,93,257,118,36
+model_data/train/1195.jpg 173,83,250,305,29
+model_data/train/401.jpg 92,224,154,251,35 153,231,170,250,36
+model_data/train/367.jpg 98,109,196,194,8 153,109,195,192,34
+model_data/train/suppply180.jpg 355,159,392,215,37 7,288,75,385,37
+model_data/train/1181.jpg 291,168,305,192,29
+model_data/train/onehalf18.jpg 22,27,41,63,2
+model_data/train/818.jpg 314,323,412,399,19
+model_data/train/58.jpg 101,79,328,237,1
+model_data/train/suppply3.jpg 55,108,261,274,8 159,108,261,274,34
+model_data/train/824.jpg 310,185,333,231,20
+model_data/train/64.jpg 84,168,141,197,1
+model_data/train/165.jpg 12,10,53,22,3 56,406,107,416,3 317,411,332,416,3
+model_data/train/603.jpg 276,92,320,159,14
+model_data/train/617.jpg 84,251,134,284,14
+model_data/train/171.jpg 45,128,201,301,4
+model_data/train/654417c661566f0b58033b82d7b4c1d4.jpg 24,119,92,137,47 143,203,150,212,20 114,224,125,227,47 122,104,147,114,47
+model_data/train/601.jpg 5,25,85,43,14
+model_data/train/167.jpg 13,12,42,23,3 52,362,69,369,3
+model_data/train/173.jpg 152,89,264,217,4
+model_data/train/615.jpg 198,187,254,201,14
+model_data/train/suppply1.jpg 20,31,84,67,4
+model_data/train/72.jpg 28,31,54,66,1
+model_data/train/64235928d3fb760d7262485fd485a5eb.jpg 31,51,379,268,45 16,295,398,368,15
+model_data/train/1356.jpg 161,68,215,92,40
+model_data/train/1342.jpg 216,114,257,134,40
+model_data/train/359.jpg 91,308,241,352,8 168,307,243,352,34
+model_data/train/6d291328313723fec030328428048c98.jpg 296,5,352,88,20 303,42,339,57,47 82,271,98,301,20 84,285,93,290,47
+model_data/train/suppply182.jpg 109,114,306,224,37
+model_data/train/1197.jpg 337,134,358,212,29 302,303,313,351,29
+model_data/train/1183.jpg 195,0,212,85,29 68,262,76,295,29
+model_data/train/371.jpg 44,180,268,247,35 271,181,359,246,36
+model_data/train/1168.jpg 91,230,104,247,28
+model_data/train/suppply169.jpg 8,60,67,137,25 67,47,296,126,48
+model_data/train/suppply141.jpg 28,31,54,64,1
+model_data/train/cctvnew37.jpg 16,192,150,240,49
+model_data/train/1140.jpg 236,111,248,147,27
+model_data/train/suppply155.jpg 291,188,316,221,11
+model_data/train/239.jpg 62,72,361,369,5
+model_data/train/211.jpg 1,1,416,416,5
+model_data/train/577.jpg 114,163,298,253,13
+model_data/train/563.jpg 294,145,308,163,13
+model_data/train/205.jpg 29,353,80,382,4
+model_data/train/588.jpg 117,106,272,150,14 217,279,258,291,14
+model_data/train/suppplies31.jpg 89,65,261,118,44
+model_data/train/cctv22.jpg 349,20,383,44,0
+model_data/train/1008.jpg 42,25,57,43,24 95,61,105,74,24
+model_data/train/suppplies25.jpg 253,135,389,200,46 10,109,240,200,18
+model_data/train/4aab34eaeaf11fdb0804a7ff11ad4f13.jpg 64,87,263,186,17
+model_data/train/1020.jpg 198,305,222,322,24
+model_data/train/suppplies19.jpg 14,9,92,39,18 96,19,141,39,46
+model_data/train/985.jpg 105,45,181,119,24
+model_data/train/952.jpg 196,98,227,128,23 36,195,59,213,23 151,199,172,217,23 254,198,277,215,23 356,193,378,214,23
+model_data/train/suppply28.jpg 61,60,146,147,6 159,93,326,138,30
+model_data/train/946.jpg 197,124,239,166,23 326,230,351,249,23 328,173,347,192,23
+model_data/train/suppply14.jpg 153,223,167,251,20
+model_data/train/suppply15.jpg 170,217,192,252,20
+model_data/train/1223.jpg 37,163,366,246,44
+model_data/train/suppply29.jpg 174,20,302,61,30 102,10,163,74,6 353,273,362,282,6 365,274,393,281,30
+model_data/train/953.jpg 179,230,226,271,23
+model_data/train/timg.jpg 57,12,349,130,17
+model_data/train/984.jpg 158,105,249,220,24
+model_data/train/990.jpg 106,177,195,238,24
+model_data/train/1035.jpg 167,62,261,205,25 137,216,292,279,48
+model_data/train/suppplies18.jpg 70,11,103,27,46 13,5,69,29,18
+model_data/train/suppplies24.jpg 42,48,334,186,18 58,212,344,376,46
+model_data/train/cctv23.jpg 112,305,222,346,0
+model_data/train/589.jpg 161,146,261,167,14
+model_data/train/210.jpg 10,5,61,29,4
+model_data/train/576.jpg 81,32,345,293,13 63,343,353,385,41
+model_data/train/238.jpg 206,267,275,363,5
+model_data/train/1141.jpg 153,224,176,253,28
+model_data/train/cctvnew36.jpg 45,170,371,246,49
+model_data/train/suppply154.jpg 95,236,110,263,11
+model_data/train/suppply140.jpg 29,33,53,65,1 353,301,384,317,19
+model_data/train/1155.jpg 294,104,308,129,28
+model_data/train/cctvnew22.jpg 286,111,369,143,49 292,188,320,200,49
+model_data/train/1169.jpg 275,240,304,256,28
+model_data/train/1182.jpg 291,166,305,190,29
+model_data/train/370.jpg 26,38,67,68,8 48,37,66,68,34
+model_data/train/suppply183.jpg 160,137,242,225,37
+model_data/train/358.jpg 28,30,255,130,8 146,30,253,127,34
+model_data/train/1357.jpg 185,314,222,341,40
+model_data/train/73.jpg 243,323,268,351,1
+model_data/train/199.jpg 49,77,82,105,4
+model_data/train/614.jpg 47,113,113,134,14
+model_data/train/98.jpg 22,24,43,65,2
+model_data/train/600.jpg 60,247,85,299,14 221,73,285,92,14
+model_data/train/166.jpg 11,21,48,37,3
+model_data/train/673.jpg 60,128,111,179,16 274,268,294,286,16 273,99,314,123,16 10,181,159,213,43 219,115,332,146,43 257,281,312,304,43 232,134,297,155,42 48,214,126,235,42 269,296,300,310,42
+model_data/train/1324.jpg 208,97,382,179,21
+model_data/train/868.jpg 25,128,108,183,44
+model_data/train/840.jpg 224,204,244,234,20
+model_data/train/1318.jpg 0,197,253,241,33 53,258,251,309,32 101,73,329,184,7
+model_data/train/854.jpg 221,278,241,308,20
+model_data/train/465.jpg 108,0,292,274,11 1,318,405,416,40
+model_data/train/471.jpg 116,0,300,133,11 0,353,82,415,11 4,158,412,206,40 97,367,416,405,40
+model_data/train/317.jpg 103,70,328,186,7 0,198,254,242,33 55,259,251,309,32
+model_data/train/suppply127.jpg 82,232,114,279,19 308,270,373,296,19 257,0,403,43,19
+model_data/train/1132.jpg 255,27,351,52,27
+model_data/train/1126.jpg 69,158,119,202,27
+model_data/train/suppply133.jpg 10,56,129,163,1 295,29,397,141,4
+model_data/train/suppplies7.jpg 11,14,113,49,18 196,232,211,239,18 118,23,178,48,46
+model_data/train/511.jpg 252,262,291,284,12
+model_data/train/263.jpg 74,100,344,374,6
+model_data/train/043d75d3bd5d885f875eb70ae04888d5.jpg 115,69,158,102,47
+model_data/train/1052.jpg 253,1,330,99,25 137,15,246,59,48
+model_data/train/1293.jpg 95,33,320,389,37
+model_data/train/908.jpg 152,46,290,225,22
+model_data/train/suppply66.jpg 25,26,50,65,4 318,322,329,337,28
+model_data/train/suppply72.jpg 226,215,278,252,20
+model_data/train/1250.jpg 81,263,281,335,44
+model_data/train/934.jpg 264,142,300,189,22 272,383,287,401,22
+model_data/train/1278.jpg 54,60,189,380,37 206,119,394,316,38
+model_data/train/920.jpg 45,167,97,249,22 317,162,352,219,22
+model_data/train/002_01.jpg 219,47,343,384,45
+model_data/train/921.jpg 132,117,155,159,22
+model_data/train/1279.jpg 75,29,137,71,38 224,71,247,87,38 72,135,136,178,38 74,239,136,281,38 75,346,137,385,38 223,280,247,298,38 224,386,247,401,38 224,177,247,192,38 215,14,254,67,37 26,18,71,82,37 346,17,391,83,37 345,122,391,191,9 217,119,254,172,9 28,125,70,189,9 26,228,69,293,9 215,221,255,277,9 346,227,390,291,9 345,332,388,398,9 217,328,254,381,9 26,333,71,397,9
+model_data/train/935.jpg 128,59,169,113,22 41,246,90,309,22 273,381,287,403,22
+model_data/train/suppply73.jpg 103,49,321,136,40 0,19,89,80,11
+model_data/train/909.jpg 132,201,144,222,22
+model_data/train/suppply67.jpg 153,55,179,91,22
+model_data/train/suppply98.jpg 133,181,295,210,33 134,215,238,246,32 20,181,135,246,7
+model_data/train/1292.jpg 60,200,86,219,38 177,198,203,220,38 309,199,335,220,38 35,67,109,189,37 108,321,154,394,37
+model_data/train/289.jpg 91,87,156,165,6 133,325,163,363,6 165,117,291,153,30 134,364,163,375,30
+model_data/train/1047.jpg 272,108,352,212,25 225,228,406,296,48
+model_data/train/504.jpg 101,171,293,276,12
+model_data/train/262.jpg 147,110,310,236,30 68,182,135,288,6
+model_data/train/276.jpg 167,85,249,113,30 124,61,163,118,6
+model_data/train/cctvnew6.jpg 93,60,149,94,49
+model_data/train/suppplies6.jpg 168,121,313,227,44
+model_data/train/1127.jpg 69,155,118,197,27
+model_data/train/suppply126.jpg 353,308,366,317,19 24,26,49,65,4
+model_data/train/1133.jpg 125,293,166,304,27
+model_data/train/470.jpg 152,83,262,239,11 93,258,321,311,40
+model_data/train/316.jpg 169,38,238,87,7 137,91,215,113,33
+model_data/train/464.jpg 108,43,303,234,11 4,256,411,322,40
+model_data/train/855.jpg 139,205,160,230,20
+model_data/train/699.jpg 171,135,245,209,16 156,259,260,289,42 130,209,283,241,43
+model_data/train/80545abcd6ca2792ec9d360ce4eb090f.jpg 174,36,236,53,47 171,1,243,94,20 4,155,32,190,20 207,309,217,325,20 7,171,29,178,47
+model_data/train/896.jpg 8,2,149,48,21
+model_data/train/114.jpg 3,14,28,54,2
+model_data/train/672.jpg 157,57,258,178,16 68,189,350,254,43 98,296,313,358,42
+model_data/train/666.jpg 169,74,231,138,16 170,139,230,152,43 137,151,265,188,42
+model_data/train/100.jpg 69,41,165,121,2 242,41,338,121,2 203,236,298,314,2
+model_data/train/e6b51cec36b05716e697cba9a34815db.jpg 251,84,286,105,41
+model_data/train/670.jpg 61,128,111,178,16 271,97,312,122,16 274,264,294,287,16 14,182,159,215,43 221,115,331,145,43 255,282,313,303,43 46,215,125,237,42 231,135,297,156,42 268,296,299,313,42 361,184,392,235,42
+model_data/train/116.jpg 13,21,34,60,2 252,227,267,265,2
+model_data/train/aca9d89b7b1eaa092ebfc45766eb39b8.jpg 229,159,328,275,13 49,172,88,219,13 44,224,88,239,41 78,74,320,141,41
+model_data/train/664.jpg 126,209,186,271,16 132,302,181,313,43 114,279,193,300,42
+model_data/train/1708ea2cfd76d6924ff818fe2ffd9ade.jpg 73,120,283,155,17
+model_data/train/83692eac922beda6aa8c79443e414913.jpg 34,19,197,95,10 211,11,338,102,39
+model_data/train/843.jpg 165,335,221,391,20
+model_data/train/314.jpg 13,66,100,141,7 81,82,184,132,33 241,138,277,163,33 240,107,286,137,32
+model_data/train/4bdb82778b61384c2d9f47902403ceee.jpg 127,136,231,225,18 232,175,275,236,46
+model_data/train/472.jpg 48,166,109,264,11 121,188,360,249,40
+model_data/train/328.jpg 41,163,204,254,7 191,166,376,218,32
+model_data/train/suppply130.jpg 117,127,283,193,19
+model_data/train/1125.jpg 37,200,73,212,27 249,291,276,300,27
+model_data/train/1131.jpg 73,196,122,222,27
+model_data/train/suppply124.jpg 125,147,305,190,44
+model_data/train/499.jpg 116,170,135,200,11 227,300,373,366,40
+model_data/train/suppplies4.jpg 321,124,356,143,35
+model_data/train/suppply118.jpg 147,159,208,202,21
+model_data/train/260.jpg 137,267,278,297,30 138,119,279,254,6
+model_data/train/1092.jpg 79,50,123,69,31 32,47,76,86,26
+model_data/train/506.jpg 196,324,215,333,12
+model_data/train/1086.jpg 13,106,407,309,26
+model_data/train/cctvnew4.jpg 281,261,321,278,49
+model_data/train/c69c55eafaa56d77e101af0a02cc8e8c.jpg 52,97,383,138,17
+model_data/train/248.jpg 38,45,382,367,5
+model_data/train/1051.jpg 0,122,79,197,25
+model_data/train/1045.jpg 9,128,53,161,25
+model_data/train/1079.jpg 158,80,333,134,31 55,70,135,125,26
+model_data/train/1290.jpg 39,269,145,391,9 279,273,390,390,9
+model_data/train/1253.jpg 80,170,125,225,9 168,224,234,261,38 172,143,305,222,36
+model_data/train/suppply65.jpg 7,9,25,37,4
+model_data/train/suppply59.jpg 235,167,260,182,15 237,142,256,168,45 86,29,113,59,45 79,54,117,77,15 92,90,116,104,15
+model_data/train/937.jpg 278,131,319,186,22 272,382,288,402,22
+model_data/train/suppply58.jpg 226,177,245,201,45 224,203,248,213,15 32,23,45,42,45
+model_data/train/suppply64.jpg 161,156,198,173,15 176,177,202,187,15 165,125,193,155,45
+model_data/train/1246.jpg 113,157,232,238,44
+model_data/train/1291.jpg 176,84,293,182,38
+model_data/train/1078.jpg 28,278,87,304,26 89,280,145,292,31
+model_data/train/1044.jpg 127,23,198,111,25 200,71,320,175,48
+model_data/train/1050.jpg 128,86,161,136,25
+model_data/train/8f1ce59b35a81dada0cd36fd2b0a5181.jpg 74,38,221,84,10 232,29,362,73,39
+model_data/train/249.jpg 90,11,374,404,5
+model_data/train/9234bf63dc4558558cb3c5fce6596314.jpg 27,156,141,199,10 146,171,230,211,39
+model_data/train/1087.jpg 39,124,211,287,26 225,148,379,216,31
+model_data/train/275.jpg 340,18,395,86,6 340,94,396,113,30
+model_data/train/cctvnew5.jpg 100,92,164,111,49 196,47,211,54,49
+model_data/train/507.jpg 0,231,216,387,12
+model_data/train/1093.jpg 2,110,213,263,26 225,129,410,195,31
+model_data/train/498.jpg 59,273,75,295,11 172,109,227,131,40 86,208,138,233,40 30,322,87,360,40 114,198,136,215,11 220,74,272,92,11 165,107,173,116,11
+model_data/train/suppply119.jpg 186,112,211,146,22
+model_data/train/suppplies5.jpg 92,153,343,256,44
+model_data/train/1118.jpg 263,302,347,327,27
+model_data/train/1130.jpg 60,38,264,92,27
+model_data/train/suppply125.jpg 187,241,234,259,19
+model_data/train/suppply131.jpg 226,190,267,204,19
+model_data/train/1124.jpg 127,73,172,111,27 285,373,325,402,27
+model_data/train/467.jpg 103,30,288,270,11
+model_data/train/473.jpg 1,0,416,268,11 31,303,388,331,40
+model_data/train/895.jpg 5,0,180,41,21
+model_data/train/665.jpg 318,105,372,166,16 118,69,259,179,42 306,198,387,235,42 292,147,408,202,43 110,0,292,135,43
+model_data/train/671.jpg 157,55,258,178,16 98,295,315,362,42 66,187,351,253,43
+model_data/train/117.jpg 134,162,158,204,2
+model_data/train/b95261e03a2ec59bb870ae9b237ed664.jpg 196,113,294,179,10 78,73,120,138,10 119,104,162,171,39 296,91,354,144,39
+model_data/train/891.jpg 66,112,347,233,21
+model_data/train/885.jpg 117,73,302,131,21 125,195,184,217,1
+model_data/train/661.jpg 296,199,347,249,16 157,227,186,262,16 260,251,383,280,43 280,285,361,308,42 62,189,115,203,42 119,241,183,290,43 120,271,178,306,42 195,195,237,209,42 177,169,250,187,42 34,195,58,201,43
+model_data/train/107.jpg 208,292,224,327,2
+model_data/train/852.jpg 188,243,212,278,20
+model_data/train/1322.jpg 79,46,125,69,31 29,42,72,79,26
+model_data/train/339.jpg 8,2,40,33,8 25,3,39,31,34
+model_data/train/ced7d04748f6df5c319add3fde3bbb8d.jpg 49,147,169,192,18 173,145,261,179,46
+model_data/train/311.jpg 149,196,409,328,33
+model_data/train/305.jpg 194,224,314,258,33 172,150,378,221,32 31,150,187,271,7
+model_data/train/suppplies1.jpg 44,180,269,245,35 269,181,361,246,36
+model_data/train/1108.jpg 119,159,170,177,27 296,123,336,169,27
+model_data/train/8b7e337ddd1fac07ea3ac974fb02c5bf.jpg 82,97,127,136,41
+model_data/train/1120.jpg 237,139,309,158,27 193,285,228,298,27
+model_data/train/suppply135.jpg 39,196,159,264,3
+model_data/train/suppply121.jpg 93,59,115,103,22
+model_data/train/1097.jpg 27,4,71,45,26 83,9,130,33,31
+model_data/train/503.jpg 63,170,187,245,12
+model_data/train/265.jpg 52,86,368,303,6 66,312,352,353,30
+model_data/train/cctvnew1.jpg 101,135,145,155,49 218,134,261,155,49
+model_data/train/517.jpg 172,112,197,125,12
+model_data/train/1068.jpg 86,94,181,171,26 190,106,329,159,31
+model_data/train/1054.jpg 139,48,187,110,25 189,56,339,112,48
+model_data/train/1040.jpg 112,104,131,135,25 129,89,202,132,48
+model_data/train/1295.jpg 354,159,392,216,37 8,287,76,388,37 233,12,284,57,38
+model_data/train/e55ac12d8cb0f134c0493a496ee9e433.jpg 58,106,362,144,17
+model_data/train/1281.jpg 121,53,283,339,9
+model_data/train/suppply48.jpg 72,18,325,245,45 23,272,379,371,15
+model_data/train/926.jpg 118,80,160,136,22
+model_data/train/932.jpg 258,118,303,177,22 151,147,178,187,22
+model_data/train/fe263f5c0bbdb701a86bb3807ed02197.jpg 46,31,185,74,10 196,33,295,73,39
+model_data/train/1256.jpg 147,191,269,314,9 44,10,286,55,35 288,10,372,53,36 355,385,383,398,36 378,402,393,412,38
+model_data/train/suppply60.jpg 367,219,406,236,15 370,192,400,219,45
+model_data/train/suppply61.jpg 240,83,270,119,45 235,121,277,134,15
+model_data/train/8d892a39dab1085301300e6b937b0112.jpg 118,86,227,166,18 232,83,322,143,46
+model_data/train/suppply75.jpg 115,265,144,286,20
+model_data/train/933.jpg 250,149,300,216,22
+model_data/train/suppply49.jpg 36,135,378,202,15
+model_data/train/927.jpg 167,198,188,237,22
+model_data/train/1294.jpg 63,62,172,350,37 237,69,350,355,37
+model_data/train/700.jpg 173,47,256,185,16 105,190,325,260,43 131,305,298,372,42
+model_data/train/1041.jpg 37,24,78,54,25 79,26,178,48,48 26,363,60,392,25 60,366,150,385,48
+model_data/train/516.jpg 35,283,69,302,12
+model_data/train/1096.jpg 44,47,85,86,26 95,52,141,74,31
+model_data/train/264.jpg 172,134,245,233,6 171,238,244,265,30
+model_data/train/98fbedaee881a63a0335e148d63122c8.jpg 59,3,390,181,17
+model_data/train/1c4af5c5bd021aa1525b52d5d95d8193.jpg 135,59,260,138,15 105,106,135,155,45
+model_data/train/suppply120.jpg 258,105,273,138,22 274,248,324,277,21
+model_data/train/1121.jpg 127,166,287,220,27
+model_data/train/suppply134.jpg 40,54,376,361,1
+model_data/train/1109.jpg 208,118,274,146,27
+model_data/train/489.jpg 201,172,217,187,11
+model_data/train/669a6a0c7910a9cd8f21542958706fc0.jpg 165,255,287,383,20 171,312,242,328,47
+model_data/train/suppply108.jpg 151,158,212,184,32 169,104,232,153,7
+model_data/train/304.jpg 98,176,204,214,32 29,175,98,222,7
+model_data/train/462.jpg 114,51,292,234,11 6,263,402,328,40
+model_data/train/476.jpg 116,227,130,244,11
+model_data/train/310.jpg 56,161,204,250,7 222,217,317,239,33 195,164,361,215,32
+model_data/train/338.jpg 170,314,242,392,34
+model_data/train/a2abc56153ea5a594b39f08b1ad4ae48.jpg 36,133,133,193,10 133,84,252,158,39
+model_data/train/59fd4192b20372198316a5e3a5daa9ee.jpg 83,102,175,129,10 179,91,258,120,39
+model_data/train/112.jpg 192,68,247,143,2
+model_data/train/674.jpg 172,126,243,199,16 147,243,262,276,42 123,195,293,238,43
+model_data/train/104.jpg 144,245,186,272,2 282,367,325,394,2
+model_data/train/676.jpg 193,307,252,360,16 115,321,170,341,43
+model_data/train/110.jpg 241,251,256,275,2
+model_data/train/845.jpg 49,258,64,299,20
+model_data/train/689.jpg 67,195,133,244,16 333,201,361,224,16 87,58,113,75,16 305,58,329,77,16 61,277,137,296,42 326,237,365,246,42 41,241,159,264,43 315,220,372,234,43 293,77,343,88,43 75,75,123,85,43
+model_data/train/851.jpg 234,145,296,253,20
+model_data/train/1321.jpg 243,112,303,153,26 303,126,356,155,31
+model_data/train/312.jpg 213,14,287,106,7 186,95,261,151,33 197,123,258,180,32
+model_data/train/cctvnew40.jpg 224,118,267,137,49
+model_data/train/1137.jpg 169,319,292,343,27
+model_data/train/suppply136.jpg 48,16,355,253,1
+model_data/train/1123.jpg 193,56,240,68,27
+model_data/train/514.jpg 90,40,395,243,12
+model_data/train/cctvnew2.jpg 307,117,345,138,49
+model_data/train/272.jpg 167,114,257,206,6 167,212,258,236,30
+model_data/train/266.jpg 97,280,314,381,30 108,19,313,288,6
+model_data/train/1094.jpg 57,120,164,256,26 185,133,350,213,26
+model_data/train/500.jpg 216,127,232,153,11
+model_data/train/suppply88.jpg 201,99,342,176,21
+model_data/train/925.jpg 58,187,81,216,22
+model_data/train/suppply63.jpg 206,145,225,168,45 203,167,228,183,15
+model_data/train/919.jpg 43,281,68,295,22
+model_data/train/1255.jpg 134,144,281,237,37 174,256,245,280,38
+model_data/train/suppply77.jpg 55,112,106,141,21 159,119,202,147,21
+model_data/train/918.jpg 157,47,176,72,22
+model_data/train/74f3017b371c9f4834b1ac4601a9b016.jpg 71,201,341,257,15 93,35,320,188,45
+model_data/train/suppply76.jpg 146,239,179,265,20
+model_data/train/suppply62.jpg 149,84,179,95,15 152,60,174,83,45
+model_data/train/1297.jpg 130,295,204,357,38
+model_data/train/1283.jpg 166,146,244,255,9
+model_data/train/suppply89.jpg 132,161,253,273,21
+model_data/train/1056.jpg 203,36,287,109,25 193,61,379,164,48
+model_data/train/1042.jpg 271,108,351,212,25 225,229,407,295,48
+model_data/train/35b9493e4e62a8e43cd048444609ea5a.jpg 69,26,198,91,18 205,40,278,93,46
+model_data/train/267.jpg 84,121,163,220,6 175,158,334,202,30
+model_data/train/1095.jpg 38,23,165,89,26 133,244,259,309,26 169,32,282,62,31 267,253,378,281,31
+model_data/train/515.jpg 153,235,296,269,12 87,353,117,360,12 161,352,191,360,12 235,352,267,360,12 308,352,339,361,12 308,402,340,411,12 234,403,266,411,12 161,403,192,412,12 86,402,117,412,12 1,1,24,9,12
+model_data/train/cctvnew3.jpg 166,102,208,133,49 25,30,60,51,0
+model_data/train/99f04483e207e9694785b3f5fca4cbc8.jpg 34,3,128,108,13 11,130,124,172,41 318,243,345,291,13
+model_data/train/529.jpg 155,221,208,248,12 202,341,218,353,12
+model_data/train/suppply137.jpg 210,137,295,181,19
+model_data/train/1136.jpg 217,277,327,308,27
+model_data/train/cctvnew41.jpg 198,109,344,173,49
+model_data/train/suppply123.jpg 229,238,293,269,19
+model_data/train/9e7564be22f8e3f86c1a74e00d3932cc.jpg 33,26,258,162,18 272,62,394,156,46
+model_data/train/suppplies3.jpg 86,61,238,172,44
+model_data/train/313.jpg 143,287,288,327,33
+model_data/train/0b50c0716c5ee81cddd7e94cb95f4ddd.jpg 27,160,312,239,17
+model_data/train/1320.jpg 53,158,204,253,7 193,162,362,215,32 224,219,317,239,33
+model_data/train/850.jpg 202,194,385,414,20
+model_data/train/844.jpg 106,0,135,49,20
+model_data/train/1308.jpg 155,250,270,280,32
+model_data/train/677.jpg 158,94,194,148,16 202,307,297,341,43 217,102,312,139,43 183,261,272,302,42
+model_data/train/111.jpg 133,213,149,236,2
+model_data/train/105.jpg 11,18,32,59,2
+model_data/train/663.jpg 201,120,274,191,16 32,229,59,256,16 393,117,403,157,16 149,189,317,241,42 176,250,296,280,43 23,280,70,293,43 19,256,75,276,42
+model_data/train/893.jpg 93,59,316,106,21
+model_data/train/120.jpg 230,268,267,305,2
+model_data/train/134.jpg 0,1,416,231,3
+model_data/train/685.jpg 232,59,294,152,16 203,133,318,189,43 222,206,293,239,42
+model_data/train/1305.jpg 321,124,356,142,35
+model_data/train/691.jpg 139,1,276,174,16 25,185,390,270,43 69,334,345,416,42
+model_data/train/861.jpg 115,72,307,133,21 123,198,185,216,21
+model_data/train/336.jpg 329,322,387,387,34
+model_data/train/suppply106.jpg 191,70,362,114,32 212,116,286,134,33 51,66,202,145,7
+model_data/train/1113.jpg 68,180,94,189,27
+model_data/train/1107.jpg 7,25,108,50,27 46,258,71,269,27
+model_data/train/suppply112.jpg 193,100,284,176,21 252,250,283,264,21
+model_data/train/256.jpg 2,0,416,323,6 1,357,414,416,30
+model_data/train/7d8fda15ce4faaa3e55dc7e51c5e8dd7.jpg 130,87,181,118,18 286,87,341,121,18 343,95,377,118,46
+model_data/train/530.jpg 29,272,62,289,12
+model_data/train/1098.jpg 38,22,82,62,26 93,26,140,50,31
+model_data/train/518.jpg 11,328,49,345,12
+model_data/train/84a3237a9fe19f16553d97744df40f8f.jpg 91,132,116,178,13 80,192,168,302,41
+model_data/train/295.jpg 120,16,318,199,7 44,211,282,315,33 40,261,388,395,32
+model_data/train/1067.jpg 265,153,321,175,31 212,152,263,189,26
+model_data/train/1073.jpg 149,76,294,118,31 11,78,94,136,26 350,80,416,137,26
+model_data/train/281.jpg 179,126,222,156,30 189,98,235,143,6
+model_data/train/suppply84.jpg 23,14,201,42,21
+model_data/train/suppply90.jpg 30,131,396,249,21
+model_data/train/a70ab94c4309d3a8272de85d3bb4e455.jpg 193,136,242,169,47
+model_data/train/suppply47.jpg 119,14,195,41,15 90,17,117,45,45
+model_data/train/suppply53.jpg 139,182,279,220,15 149,137,261,190,45
+model_data/train/f133aa8cec41ccd90bcf9bfb84f87b70.jpg 95,65,146,116,45 153,69,292,110,15 157,169,183,195,45
+model_data/train/8c0c7a9c8ab2663dcdf4f6d49d52d53e.jpeg 188,54,248,156,13 186,170,252,189,41
+model_data/train/901.jpg 162,89,173,109,22
+model_data/train/1258.jpg 3,223,277,352,36 163,62,254,155,9 1,359,133,415,38
+model_data/train/914.jpg 181,47,202,76,22
+model_data/train/suppply52.jpg 46,38,357,241,45 3,257,416,359,15
+model_data/train/1270.jpg 95,33,320,386,37
+model_data/train/suppply46.jpg 131,116,156,157,22
+model_data/train/suppply91.jpg 100,53,277,86,44
+model_data/train/suppply85.jpg 16,4,168,31,21
+model_data/train/280.jpg 153,76,266,207,6 141,215,277,252,30
+model_data/train/525.jpg 198,39,225,54,12
+model_data/train/243.jpg 133,106,253,323,5
+model_data/train/18bbfcdd24e3a871017d3e0572a54843.jpg 0,50,57,110,13 97,71,217,91,41 301,295,323,316,13
+model_data/train/22ce18b4dce8aa14bda1e7b2033b6d9b.jpg 135,74,229,134,18 235,88,290,134,46
+model_data/train/531.jpg 191,194,324,246,12
+model_data/train/1106.jpg 128,105,183,131,27
+model_data/train/492.jpg 251,211,259,230,11
+model_data/train/suppply113.jpg 31,90,258,163,21
+model_data/train/486.jpg 82,198,98,224,11
+model_data/train/1112.jpg 21,84,386,260,27
+model_data/train/337.jpg 179,36,213,79,8 197,36,214,78,34
+model_data/train/323.jpg 130,120,278,227,7 72,245,250,289,33
+model_data/train/860.jpg 146,93,270,167,20
+model_data/train/690.jpg 186,76,232,120,16 162,120,251,139,43 178,151,241,171,42
+model_data/train/684.jpg 103,75,165,136,16 276,85,335,143,16 72,284,189,314,42 239,274,352,308,42
+model_data/train/135.jpg 0,0,416,228,3
+model_data/train/889.jpg 247,242,316,275,21
+model_data/train/87aa340315e3702905719bd6efd4efdd.jpg 253,73,333,99,15
+model_data/train/1306.jpg 55,171,172,269,7 186,178,360,229,32 186,235,307,264,33
+model_data/train/692.jpg 157,57,259,178,16 66,189,349,253,43 101,297,314,356,42
+model_data/train/686.jpg 242,104,290,175,16 218,170,310,204,43 237,223,294,249,42
+model_data/train/335.jpg 310,204,343,256,8 328,209,343,254,34
+model_data/train/321.jpg 18,114,197,287,7 203,223,322,265,33 180,121,379,216,32
+model_data/train/suppply111.jpg 1,54,169,173,7 193,127,326,181,32 139,61,362,128,33
+model_data/train/490.jpg 199,221,221,252,11
+model_data/train/1110.jpg 137,70,193,94,27
+model_data/train/484.jpg 190,153,209,184,11
+model_data/train/suppply105.jpg 17,13,53,24,3 162,372,181,377,3 106,372,128,379,3
+model_data/train/8d7f72a1e8c81cbd66df37b0f446c84a.jpg 152,69,232,85,47 357,213,378,226,47 46,220,58,229,47 5,236,13,243,47
+model_data/train/suppply139.jpg 29,32,53,67,1 354,299,384,318,19
+model_data/train/b4f8847009577bfd1b7f8c28b356395b.jpg 256,19,355,50,47
+model_data/train/533.jpg 204,311,232,320,12
+model_data/train/255.jpg 158,103,258,266,6 162,269,253,305,30
+model_data/train/08f5fe23a79a8225bf4cde93cfa97e7d.jpg 19,23,99,45,10 105,23,164,44,39 33,123,58,131,10
+model_data/train/0d319caa194790b2907c74b52c410100.jpg 115,127,225,165,10 235,128,316,160,39
+model_data/train/282.jpg 164,273,181,295,6 159,282,174,299,30
+model_data/train/1070.jpg 203,59,390,115,26 20,60,190,168,26
+model_data/train/296.jpg 201,222,322,265,33 180,122,379,216,32 20,115,198,289,7
+model_data/train/01d8a1c3d88f62c30d945f4d45ba7eba.jpg 111,164,217,219,18 225,175,289,216,46
+model_data/train/suppply93.jpg 41,178,166,304,7 182,185,367,252,32 183,259,309,299,33
+model_data/train/suppply87.jpg 119,105,313,205,44
+model_data/train/1299.jpg 97,60,178,151,37 97,162,178,252,37 97,267,176,354,37
+model_data/train/6217272bccf8947089e1c25790848600.jpg 114,153,263,241,17
+model_data/train/1272.jpg 149,135,252,266,9
+model_data/train/ffc7f5bf9aafa0b0293560c764a814c7.jpg 27,162,380,198,17
+model_data/train/suppply50.jpg 78,69,338,240,45 80,253,334,299,15
+model_data/train/suppply44.jpg 59,92,117,130,15 71,43,112,98,45
+model_data/train/902.jpg 81,117,105,160,22
+model_data/train/suppply78.jpg 93,33,240,129,21
+model_data/train/3ae7020d4521c511a5874f0b9b4899e2.jpg 34,115,346,185,17
+model_data/train/suppply79.jpg 193,101,283,176,21 252,250,283,265,21
+model_data/train/suppply45.jpg 244,336,267,363,45 237,139,270,166,45 173,77,229,121,45 235,84,377,118,15 271,338,325,358,15
+model_data/train/1267.jpg 166,47,262,110,36 165,116,261,144,35
+model_data/train/suppply51.jpg 91,307,322,366,15 59,24,356,296,45
+model_data/train/1298.jpg 176,85,293,183,38
+model_data/train/suppply86.jpg 5,24,34,66,4
+model_data/train/edc72e7f83cd613d618bf84c53f182d5.jpg 7,6,85,90,20 17,44,70,54,47
+model_data/train/suppply92.jpg 56,80,81,111,4
+model_data/train/1065.jpg 86,24,145,39,31 24,19,84,44,26
+model_data/train/283.jpg 203,153,217,159,30 203,135,216,153,6
+model_data/train/1071.jpg 77,68,216,126,26 227,80,358,107,31
+model_data/train/532.jpg 180,200,199,210,12
+model_data/train/254.jpg 124,266,297,304,30 116,70,304,259,6
+model_data/train/240.jpg 4,8,399,409,5
+model_data/train/526.jpg 305,71,334,93,12
+model_data/train/dc63f7017bad402727fbfae778c7b1e3.jpg 23,233,131,275,10 140,235,222,274,39
+model_data/train/suppply138.jpg 33,24,58,56,1
+model_data/train/1139.jpg 101,190,178,221,27
+model_data/train/suppply104.jpg 177,216,217,231,32
+model_data/train/suppply110.jpg 98,33,197,67,32 16,30,105,94,7
+model_data/train/1105.jpg 22,157,285,208,27
+model_data/train/491.jpg 274,183,293,210,11
+model_data/train/308.jpg 107,27,182,197,7 50,195,169,288,33
+model_data/train/320.jpg 144,113,290,220,7 83,238,253,282,33
+model_data/train/334.jpg 166,86,219,135,8 194,86,219,134,34 5,1,11,12,34
+model_data/train/1313.jpg 129,74,330,178,7 24,197,248,236,33 87,245,243,281,32
+model_data/train/687.jpg 89,197,167,246,16 113,58,143,75,16 51,245,202,269,43 77,281,178,298,42 94,75,158,86,43
+model_data/train/693.jpg 144,34,256,177,16 48,184,349,253,43 88,307,317,380,42
+model_data/train/122.jpg 230,152,248,175,2
+model_data/train/851b82a9ad7581280cdc76c25cfc8b3b.jpg 130,305,211,336,47
+model_data/train/136.jpg 16,171,202,268,3
+model_data/train/668.jpg 177,122,246,194,16 123,191,296,234,43 152,239,266,271,42
+model_data/train/132.jpg 38,196,158,263,3
+model_data/train/26759be146474fe2a05b7fdb0da1d244.jpg 46,0,248,101,10 257,46,362,112,39
+model_data/train/898.jpg 20,250,394,374,21 19,85,381,155,44
+model_data/train/867.jpg 110,155,236,237,44
+model_data/train/697.jpg 119,0,297,253,16 22,266,390,372,43
+model_data/train/683.jpg 186,86,245,167,16 300,216,323,246,16 136,193,222,265,42 290,265,328,279,42 283,245,337,263,43 130,133,256,236,43
+model_data/train/a54d7376abb3e32633c0a0bfcdc6127d.jpg 258,82,337,169,13 255,186,344,206,41
+model_data/train/318.jpg 103,73,326,184,7 0,200,252,242,33 54,258,251,308,32
+model_data/train/324.jpg 163,74,244,149,7 124,156,217,187,33 144,196,218,227,32
+model_data/train/b3fd727d3bd53721ec6f69c72816772e.jpg 80,203,346,364,15 110,79,317,257,45
+model_data/train/suppply128.jpg 175,180,208,215,19
+model_data/train/1129.jpg 126,205,172,248,27
+model_data/train/suppply114.jpg 15,176,41,197,8 28,176,40,196,34 1,2,25,21,8 13,2,25,21,34
+model_data/train/suppplies8.jpg 64,13,100,30,46 9,9,62,30,18
+model_data/train/suppply100.jpg 186,139,374,213,32 206,218,317,248,33 36,137,199,265,7
+model_data/train/1115.jpg 147,171,259,205,27
+model_data/train/cctvnew8.jpg 34,71,175,110,49
+model_data/train/522.jpg 79,237,104,259,12 181,336,222,349,12
+model_data/train/244.jpg 26,24,396,402,5
+model_data/train/250.jpg 88,1,359,412,5
+model_data/train/1049.jpg 127,21,213,203,25 214,74,339,213,48
+model_data/train/1075.jpg 86,56,173,101,26 197,169,232,189,26 30,310,45,327,26 124,172,135,180,26 300,169,310,177,26 175,72,241,94,31 194,190,238,204,31 45,312,67,330,31
+model_data/train/293.jpg 62,239,377,307,33
+model_data/train/1288.jpg 241,175,303,226,38 132,197,163,237,9
+model_data/train/cf29efa8b53283be13f98c8af8ef407d.jpg 99,82,297,179,47
+model_data/train/suppply96.jpg 37,83,122,137,7 38,233,186,325,7 174,237,344,289,32 204,290,299,313,33 116,85,214,118,32
+model_data/train/b09a38b6deb015fef99e11168faff5bd.jpg 65,28,150,81,18 155,53,197,87,46 110,152,150,179,18 320,85,362,118,18 306,140,348,172,18 154,160,185,184,46 358,99,385,124,46
+model_data/train/suppply82.jpg 158,124,236,162,21
+model_data/train/suppply69.jpg 183,184,225,209,20
+model_data/train/907.jpg 259,104,274,138,22 272,248,326,275,21
+model_data/train/suppply55.jpg 34,101,279,189,19
+model_data/train/1277.jpg 63,63,171,351,37 238,67,350,353,37
+model_data/train/suppply41.jpg 130,30,177,83,6 201,249,218,268,6 218,254,254,265,30 183,45,288,75,30
+model_data/train/803963f13505d48ebf80251b730d033b.jpg 170,200,189,222,13 146,240,215,259,41
+model_data/train/suppply40.jpg 276,167,316,214,6 277,216,319,229,30
+model_data/train/suppply54.jpg 90,76,327,239,45 44,280,371,340,15
+model_data/train/1276.jpg 112,122,305,293,37
+model_data/train/suppply68.jpg 57,127,92,171,22
+model_data/train/906.jpg 144,124,168,173,22
+model_data/train/suppply83.jpg 17,7,184,34,21
+model_data/train/072f735c0dc9cd46854fb7b788cef8e1.jpg 136,62,281,274,13 133,313,286,356,41
+model_data/train/suppply97.jpg 45,11,91,27,32 11,11,49,37,7 51,27,77,35,33
+model_data/train/1289.jpg 119,26,282,160,9 119,247,282,382,9
+model_data/train/292.jpg 54,171,173,268,7 187,179,359,227,32 187,235,305,263,33
+model_data/train/1074.jpg 259,207,329,257,26 249,257,344,308,31
+model_data/train/286.jpg 215,68,295,91,30 170,52,211,95,6
+model_data/train/1048.jpg 35,67,62,101,25 65,64,149,97,48
+model_data/train/251.jpg 127,10,277,238,6 127,260,278,312,30
+model_data/train/537.jpg 267,217,314,243,12
+model_data/train/523.jpg 186,74,225,89,12
+model_data/train/245.jpg 93,100,273,294,5
+model_data/train/cctvnew9.jpg 270,120,312,149,49
+model_data/train/279.jpg 170,217,316,330,30 42,136,159,250,6
+model_data/train/suppply101.jpg 6,12,30,45,4
+model_data/train/480.jpg 116,218,132,246,11
+model_data/train/1114.jpg 149,192,192,212,27 285,70,324,110,27
+model_data/train/1100.jpg 13,15,61,56,26 69,19,121,43,31
+model_data/train/494.jpg 212,244,228,268,11
+model_data/train/suppplies9.jpg 16,20,86,44,18 89,26,130,45,46 192,368,217,378,46
+model_data/train/suppply115.jpg 73,163,292,214,44
+model_data/train/1128.jpg 33,141,63,161,27
+model_data/train/suppply129.jpg 264,324,292,337,19
+model_data/train/eb9d943ba7a1885660215fb0ab90cebc.jpg 203,132,238,184,13 201,198,238,215,41
+model_data/train/58923005ce42e6cddbf6514154206a19.jpg 101,47,305,137,17
+model_data/train/682.jpg 154,59,254,131,16 148,137,264,155,43 35,164,383,240,42
+model_data/train/eac037800fd673c87c268187b72f6acf.jpg 64,90,356,132,17
+model_data/train/696.jpg 140,61,274,154,16 71,155,345,197,43 117,221,301,257,42
+model_data/train/1302.jpg 44,9,286,56,35 289,13,374,55,36 146,189,269,313,9
+model_data/train/866.jpg 0,5,408,358,21
+model_data/train/669.jpg 187,74,231,120,16 178,150,241,169,42 163,118,252,142,42
+model_data/train/64053b6c2f0f0a6b55da77c9c6cc1dd3.jpg 139,46,218,62,41 219,295,230,311,13
+model_data/train/7651c0e94968e205d7508ca474881a79.jpg 55,82,211,175,10 221,117,310,188,39
+model_data/train/131.jpg 16,171,201,267,3
+model_data/train/864.jpg 191,112,333,226,21
+model_data/train/a399acf4e698b4152fe9a34f8d27fd08.jpg 22,30,124,92,10 160,22,316,91,39
+model_data/train/870.jpg 72,11,293,147,21
+model_data/train/680.jpg 66,112,115,162,16 267,227,300,257,16 28,166,155,203,42 226,237,307,300,42 59,210,125,226,43 236,268,276,299,43
+model_data/train/1314.jpg 186,177,359,227,32 187,235,305,262,33 55,171,172,270,7
+model_data/train/858.jpg 312,206,327,232,20
+model_data/train/694.jpg 143,0,275,220,16 28,230,389,343,43
+model_data/train/333.jpg 17,28,313,326,8 203,31,310,328,34
+model_data/train/1116.jpg 107,316,154,330,27
+model_data/train/482.jpg 208,201,221,221,11
+model_data/train/suppply103.jpg 13,197,142,236,33 42,252,142,296,32 65,86,178,185,7
+model_data/train/suppply117.jpg 123,216,142,246,20
+model_data/train/509.jpg 269,86,287,97,12
+model_data/train/1089.jpg 283,140,322,169,26
+model_data/train/535.jpg 174,6,247,44,12
+model_data/train/247.jpg 127,131,266,237,5
+model_data/train/521.jpg 297,329,347,362,12
+model_data/train/1062.jpg 14,146,220,279,26 229,168,412,222,31
+model_data/train/284.jpg 185,290,246,330,30 184,208,245,299,6
+model_data/train/214975a47aeed9f59b0ebea719fe6993.jpg 187,184,359,312,17
+model_data/train/suppply81.jpg 83,140,209,190,21
+model_data/train/suppply95.jpg 86,244,244,282,32 24,195,247,235,33 127,74,331,176,7
+model_data/train/910.jpg 123,305,148,322,22 91,87,101,101,22 235,147,247,155,22
+model_data/train/1248.jpg 79,264,284,333,44
+model_data/train/suppply42.jpg 90,222,159,250,15 57,216,88,242,45
+model_data/train/1260.jpg 62,64,172,350,37 237,69,349,350,37
+model_data/train/938.jpg 286,126,324,200,22
+model_data/train/1274.jpg 131,141,280,238,37 171,256,246,280,38
+model_data/train/suppply56.jpg 42,50,121,104,15 37,123,115,167,15 357,231,375,242,15 173,328,186,338,15 58,12,116,67,45 359,214,373,233,45
+model_data/train/939.jpg 19,90,106,306,22
+model_data/train/suppply57.jpg 59,185,82,215,22
+model_data/train/suppply43.jpg 175,115,244,153,19
+model_data/train/905.jpg 31,3,69,52,22
+model_data/train/911.jpg 117,80,298,259,22
+model_data/train/suppply80.jpg 107,54,231,147,21 194,161,266,199,21
+model_data/train/1063.jpg 219,184,387,225,31 19,172,208,267,26 18,371,65,397,8
+model_data/train/246.jpg 101,36,328,359,5
+model_data/train/534.jpg 140,104,160,118,12 31,33,91,54,12
+model_data/train/252.jpg 12,79,403,302,6 30,312,384,355,30
+model_data/train/1088.jpg 194,122,307,210,26 123,216,310,277,31
+model_data/train/suppply116.jpg 91,33,239,129,21
+model_data/train/483.jpg 117,172,132,193,11
+model_data/train/1117.jpg 22,305,63,319,27
+model_data/train/suppply102.jpg 159,13,244,129,21 262,170,393,231,17
+model_data/train/332.jpg 161,108,218,172,8 190,107,218,172,34
+model_data/train/15302c49192aaedadb749964cbc6ad73.jpg 20,64,253,126,18 261,94,361,131,46
+model_data/train/468.jpg 54,189,97,289,11 107,210,278,274,40 0,1,416,149,40
+model_data/train/695.jpg 158,0,214,97,16 128,98,240,136,43 148,165,225,205,42
+model_data/train/1315.jpg 55,171,173,271,7 186,235,306,263,33 186,176,360,229,32
+model_data/train/871.jpg 18,71,381,150,44 20,262,395,405,21
+model_data/train/865.jpg 41,101,360,258,21
+model_data/train/1329.jpg 43,177,384,290,21
+model_data/train/130.jpg 101,50,320,267,2
+model_data/train/124.jpg 199,27,237,53,2
+model_data/train/118.jpg 166,246,188,284,2
+model_data/train/625.jpg 115,175,137,203,45
+model_data/train/631.jpg 34,173,49,196,45
+model_data/train/194.jpg 27,17,100,63,4
+model_data/train/56.jpg 29,76,55,101,1
+model_data/train/816.jpg 199,184,214,241,19
+model_data/train/341.jpg 91,310,242,353,8 170,310,241,352,34 312,388,364,404,8 338,388,364,404,34
+model_data/train/onehalf16.jpg 41,319,247,397,35 248,284,362,352,36
+model_data/train/1170.jpg 39,265,51,281,28
+model_data/train/382.jpg 41,14,91,37,35 107,273,160,324,36 189,359,204,393,37 92,15,111,36,36 85,72,95,91,37 232,220,268,263,38 262,371,269,384,9
+model_data/train/suppply165.jpg 168,250,233,385,34 113,250,234,386,8 239,114,266,157,8 252,113,266,157,34
+model_data/train/suppply171.jpg 139,50,186,120,25 190,59,337,119,48
+model_data/train/396.jpg 81,152,227,226,35 232,157,318,218,36
+model_data/train/cctvnew13.jpg 70,127,125,150,49
+model_data/train/1164.jpg 211,280,238,314,28
+model_data/train/suppply159.jpg 104,102,239,139,8 174,100,236,140,34
+model_data/train/1158.jpg 103,172,122,203,28
+model_data/train/553.jpg 153,129,268,273,13 146,95,272,124,41
+model_data/train/235.jpg 160,134,222,224,5
+model_data/train/221.jpg 132,115,281,317,5
+model_data/train/547.jpg 112,125,293,352,13 105,73,299,116,41
+model_data/train/timg-5.jpg 144,88,365,118,17
+model_data/train/209.jpg 66,11,354,252,4
+model_data/train/584.jpg 124,74,175,87,14
+model_data/train/1010.jpg 88,59,131,81,24
+model_data/train/suppplies15.jpg 337,324,369,344,18 370,328,389,344,46
+model_data/train/e0e8723c7971e28e02c086abf8204dc9.jpg 39,24,182,78,10 193,31,291,86,39 244,218,274,234,10 246,230,270,244,39
+model_data/train/cctv12.jpg 41,10,95,43,0
+model_data/train/989.jpg 348,238,401,298,24
+model_data/train/suppply24.jpg 28,88,260,163,21
+model_data/train/1206.jpg 159,263,165,289,29
+model_data/train/onehalf7.jpg 12,7,28,15,2 103,400,112,405,2
+model_data/train/1212.jpg 195,196,230,288,29
+model_data/train/786.jpg 189,302,197,354,19
+model_data/train/suppply30.jpg 177,61,297,95,30 110,41,170,103,6
+model_data/train/suppply18.jpg 102,221,117,249,20
+model_data/train/962.jpg 169,87,201,122,23 281,207,310,236,23
+model_data/train/963.jpg 184,10,229,39,23 191,193,226,207,23
+model_data/train/e8a3ab9cb69a0e7406864081ec81d229.jpg 45,71,73,110,13 131,145,332,193,41
+model_data/train/suppply19.jpg 99,143,253,232,19
+model_data/train/977.jpg 55,60,359,357,23
+model_data/train/1213.jpg 194,1,213,85,29 67,264,76,294,29
+model_data/train/onehalf6.jpg 22,24,43,64,2
+model_data/train/suppply31.jpg 105,189,165,215,19
+model_data/train/suppply25.jpg 74,290,231,346,30 73,37,230,267,6
+model_data/train/cctv7.jpg 20,13,73,35,0
+model_data/train/1207.jpg 203,170,214,219,29
+model_data/train/suppplies14.jpg 349,317,387,356,46 284,329,349,397,18
+model_data/train/1011.jpg 225,298,266,340,24
+model_data/train/585.jpg 153,86,208,99,14
+model_data/train/timg-4.jpg 118,49,332,111,17
+model_data/train/d53fe5fe5b6b874ffc872f6439384855.jpg 104,98,252,145,17
+model_data/train/208.jpg 305,6,334,22,4
+model_data/train/220.jpg 67,8,347,401,5
+model_data/train/552.jpg 176,157,191,175,13 168,192,178,208,13
+model_data/train/234.jpg 184,32,231,103,5 80,317,106,353,5
+model_data/train/1159.jpg 329,235,345,256,28
+model_data/train/suppply158.jpg 305,193,317,219,11
+model_data/train/suppply170.jpg 176,231,241,256,48 246,238,285,290,25
+model_data/train/cctvnew12.jpg 167,85,247,111,49
+model_data/train/suppply164.jpg 16,368,45,393,8 31,368,45,394,34
+model_data/train/354.jpg 2,7,270,214,8 140,6,269,212,34
+model_data/train/7e1dbd38528ac121193039881853bf23.jpg 194,105,411,161,17
+model_data/train/onehalf17.jpg 189,320,359,346,35
+model_data/train/817.jpg 192,226,239,283,19
+model_data/train/195.jpg 149,254,165,274,4
+model_data/train/94.jpg 22,25,43,64,2
+model_data/train/618.jpg 49,139,100,174,14
+model_data/train/630.jpg 263,224,286,249,45
+model_data/train/624.jpg 228,223,244,241,45
+model_data/train/626.jpg 115,153,132,171,45
+model_data/train/140.jpg 25,28,54,57,3
+model_data/train/168.jpg 11,7,50,19,3 257,400,286,406,3
+model_data/train/96.jpg 21,24,42,62,2
+model_data/train/82.jpg 206,267,252,312,1
+model_data/train/197.jpg 153,89,265,216,4
+model_data/train/69.jpg 71,120,97,137,1
+model_data/train/1359.jpg 33,228,74,244,40
+model_data/train/801.jpg 196,185,213,232,19 96,184,111,235,19 226,46,256,58,19 299,319,323,333,19
+model_data/train/356.jpg 19,119,255,241,8 141,120,255,241,34
+model_data/train/342.jpg 166,112,241,149,8 175,287,217,308,8 205,111,241,147,34 198,289,217,307,34
+model_data/train/1198.jpg 136,155,156,235,29
+model_data/train/cctvnew10.jpg 170,190,196,207,49
+model_data/train/suppply172.jpg 159,91,239,118,48 245,99,290,163,25
+model_data/train/suppply166.jpg 48,66,124,133,8 89,66,124,133,34
+model_data/train/381.jpg 291,59,368,87,35
+model_data/train/1173.jpg 94,221,112,243,28
+model_data/train/0e99d0eec490c973228ec92ea4f030c7.jpg 64,38,221,93,47 229,121,269,176,47
+model_data/train/cctvnew38.jpg 26,33,60,52,0 166,104,207,130,49
+model_data/train/544.jpg 143,313,160,329,13
+model_data/train/222.jpg 99,26,316,380,5
+model_data/train/f13d9bfcb8a31f61b2d7f21c0fe2f192.jpg 133,158,155,190,45 157,160,217,198,15
+model_data/train/236.jpg 250,52,376,306,5
+model_data/train/550.jpg 200,230,216,252,13
+model_data/train/fa0900cc01d660323e42feaf9f60f93c.jpg 144,147,278,241,13 141,256,278,277,41
+model_data/train/587.jpg 37,188,95,202,14
+model_data/train/593.jpg 99,157,146,180,14
+model_data/train/cctv11.jpg 30,27,62,48,0 144,57,237,113,0
+model_data/train/suppplies16.jpg 11,10,85,38,18 88,17,131,36,46 196,225,237,248,18
+model_data/train/suppply33.jpg 62,62,146,148,6 158,94,326,135,30
+model_data/train/onehalf4.jpg 14,16,123,32,35 137,262,262,284,35 262,264,306,283,36 126,15,165,32,36
+model_data/train/1211.jpg 291,167,307,190,29
+model_data/train/785.jpg 10,12,58,41,19
+model_data/train/949.jpg 173,114,241,147,23 166,215,259,249,23
+model_data/train/cctv5.jpg 153,279,182,314,0
+model_data/train/suppply27.jpg 169,106,244,137,30 170,5,243,101,6
+model_data/train/975.jpg 112,0,327,265,23
+model_data/train/1239.jpg 25,174,377,241,44
+model_data/train/1238.jpg 37,163,369,247,44
+model_data/train/6d56625b8659130d2a3ab0bfcbc0e8b4.jpg 54,96,161,169,10 159,52,290,146,39
+model_data/train/1204.jpg 191,74,223,185,29
+model_data/train/cctv4.jpg 26,29,66,54,0
+model_data/train/948.jpg 188,95,216,133,23
+model_data/train/suppply26.jpg 209,197,259,262,6 265,203,378,247,30
+model_data/train/784.jpg 10,12,60,39,19 68,174,73,190,19
+model_data/train/1210.jpg 177,183,187,211,29
+model_data/train/onehalf5.jpg 5,27,25,63,2
+model_data/train/suppplies17.jpg 337,9,369,23,18 369,13,388,24,46
+model_data/train/cctv10.jpg 26,16,62,37,0
+model_data/train/592.jpg 200,241,268,299,14
+model_data/train/1006.jpg 20,58,45,76,24
+model_data/train/1012.jpg 273,241,285,263,24
+model_data/train/586.jpg 144,155,256,189,14
+model_data/train/21dafcaf97235e4da09ed69f46afe056.jpg 42,86,181,288,18 173,53,295,223,46
+model_data/train/223.jpg 25,61,382,310,5
+model_data/train/cctvnew39.jpg 101,137,144,154,49 218,135,260,156,49
+model_data/train/suppply167.jpg 192,16,265,127,34 107,15,265,128,8
+model_data/train/cctvnew11.jpg 86,117,330,210,49
+model_data/train/suppply173.jpg 191,219,219,263,25 142,219,187,235,48
+model_data/train/1199.jpg 348,150,361,202,29
+model_data/train/onehalf14.jpg 20,12,37,27,2
+model_data/train/800.jpg 23,104,393,318,19
+model_data/train/4c3542ec4382936c34f97c59dcd17e92.jpg 159,114,271,242,13 154,264,278,301,41
+model_data/train/1358.jpg 205,102,244,151,40
+model_data/train/54.jpg 29,31,52,66,1
+model_data/train/196.jpg 135,8,160,34,4
+model_data/train/68.jpg 287,129,381,231,1
+model_data/train/83.jpg 345,14,361,36,1 33,65,49,90,1
+model_data/train/169.jpg 16,170,200,269,3
+model_data/train/eeae35ff5a7ce3302642f078c086fa82.jpg 38,53,221,139,18 229,64,338,126,46
+model_data/train/627.jpg 100,201,112,215,45
+model_data/train/df04c1a4a05189d489a3db5eb5f35694.jpg 150,52,274,125,10 278,82,348,138,39
+model_data/train/141.jpg 59,5,352,98,3
+model_data/train/633.jpg 85,205,103,224,45
+model_data/train/330e63b094d61368f4ac4988c6c0ea77.jpg 104,49,303,136,17
+model_data/train/179.jpg 12,2,34,14,4
+model_data/train/151.jpg 20,19,73,31,3
+model_data/train/145.jpg 60,33,91,59,3
+model_data/train/623.jpg 93,108,319,244,45 87,261,328,307,15
+model_data/train/1348.jpg 205,334,253,360,40
+model_data/train/804.jpg 146,45,171,57,19
+model_data/train/1360.jpg 109,225,131,283,40 288,309,297,351,40
+model_data/train/186.jpg 12,5,61,30,4
+model_data/train/78.jpg 51,84,78,112,1
+model_data/train/409.jpg 22,11,122,177,9 183,265,230,344,9 323,288,350,310,36
+model_data/train/1189.jpg 190,76,216,196,29
+model_data/train/80946e00d6e27a62cb8e28ea7f83fd9c.jpg 181,70,331,116,15 189,229,329,272,15 117,57,173,115,45 130,228,183,280,45
+model_data/train/onehalf10.jpg 15,36,39,81,2
+model_data/train/cctvnew29.jpg 94,62,148,96,49
+model_data/train/suppply177.jpg 191,116,342,306,38 68,61,177,359,37
+model_data/train/390.jpg 138,196,158,226,9 175,182,245,238,36
+model_data/train/cctvnew15.jpg 172,215,255,257,49
+model_data/train/1162.jpg 334,220,349,253,28
+model_data/train/384.jpg 193,318,358,346,35 360,317,416,343,36
+model_data/train/suppply163.jpg 12,11,42,45,8 28,11,42,45,34
+model_data/train/timg-3.jpg 66,99,375,149,17
+model_data/train/8ab03165b0857ed0c883ff1791fbfcdf.jpg 357,182,410,306,13 356,324,412,373,41
+model_data/train/541.jpg 55,62,361,372,13
+model_data/train/233.jpg 172,111,241,216,5
+model_data/train/cctv14.jpg 37,106,326,277,0
+model_data/train/suppplies13.jpg 10,13,88,42,18 91,20,138,40,46
+model_data/train/d0c5e23073127bb25386a0b793e84753.jpg 206,69,252,96,47
+model_data/train/582.jpg 130,65,203,78,14
+model_data/train/1016.jpg 125,310,150,328,24
+model_data/train/7e5d4c3d0a4a6726896b9b373b3ae4b5.jpg 277,96,321,125,15
+model_data/train/cctv28.jpg 250,126,332,179,0
+model_data/train/1002.jpg 147,46,162,58,24 304,290,324,307,24
+model_data/train/596.jpg 193,80,312,162,14
+model_data/train/964.jpg 187,220,228,246,23 201,131,215,146,23
+model_data/train/970.jpg 263,227,316,252,23
+model_data/train/onehalf1.jpg 12,5,29,15,2
+model_data/train/958.jpg 244,80,268,107,23 102,256,126,279,23
+model_data/train/suppply36.jpg 170,72,296,108,30 107,55,162,117,6
+model_data/train/suppply22.jpg 169,71,296,108,30 105,54,164,119,6
+model_data/train/1200.jpg 47,199,56,229,29 196,207,205,256,29
+model_data/train/suppply23.jpg 346,302,386,341,6 346,337,386,357,30
+model_data/train/cctv1.jpg 42,22,192,95,0
+model_data/train/781.jpg 11,20,57,47,19 166,313,179,328,19
+model_data/train/94931ab3daf4ba9b675e1cc3ba37be4d.jpg 52,123,106,138,47 41,78,121,185,20
+model_data/train/1215.jpg 202,163,215,213,29
+model_data/train/959.jpg 193,122,222,151,23
+model_data/train/suppply37.jpg 146,12,256,124,6 141,133,258,164,30 186,249,212,257,30 186,225,211,249,6
+model_data/train/971.jpg 97,50,336,239,23
+model_data/train/1229.jpg 167,88,311,138,44
+model_data/train/d14cbc705347c4f8f9678266e43c15da.jpg 102,110,276,167,17
+model_data/train/597.jpg 23,38,121,57,14 95,344,111,349,14
+model_data/train/1003.jpg 397,57,410,73,24
+model_data/train/cb268f78f934ced7f91610a798bc1af7.jpg 1,46,225,109,41
+model_data/train/cctv29.jpg 128,146,236,209,0
+model_data/train/1017.jpg 47,41,57,55,24 157,17,169,31,24 291,23,302,39,24
+model_data/train/583.jpg 34,71,232,98,14 216,223,267,247,14 284,128,334,139,14
+model_data/train/2c3db1ec35d4b24d5ecf698cfc81acbc.jpg 323,108,400,181,20 338,141,384,151,47
+model_data/train/suppplies12.jpg 35,157,367,247,44
+model_data/train/cctv15.jpg 74,308,189,380,0
+model_data/train/554.jpg 193,266,225,296,13
+model_data/train/232.jpg 285,226,414,394,5
+model_data/train/226.jpg 75,69,339,332,5
+model_data/train/540.jpg 85,168,223,220,12
+model_data/train/568.jpg 113,97,298,262,13 104,57,302,88,41
+model_data/train/timg-2.jpg 117,85,299,175,17
+model_data/train/suppply162.jpg 161,94,216,129,8 191,94,216,128,34
+model_data/train/suppply176.jpg 35,64,109,181,37 109,311,154,381,37 62,194,87,213,38 178,193,204,212,38 309,194,334,214,38 37,278,48,287,38 37,40,48,49,38
+model_data/train/391.jpg 125,118,298,296,9
+model_data/train/1163.jpg 289,210,313,231,28
+model_data/train/cctvnew28.jpg 271,120,311,146,49
+model_data/train/352.jpg 185,232,289,323,8 230,232,288,324,34
+model_data/train/onehalf11.jpg 25,51,352,259,35 354,200,396,275,36
+model_data/train/408.jpg 156,117,262,241,37
+model_data/train/187.jpg 25,24,51,64,4
+model_data/train/1e4d63d972488bbd8d7b7972650e3494.jpg 124,18,196,38,41
+model_data/train/193.jpg 235,218,260,252,4
+model_data/train/805.jpg 92,40,117,52,19 262,178,279,236,19
+model_data/train/144.jpg 23,29,53,58,3
+model_data/train/622.jpg 86,155,110,189,45
+model_data/train/636.jpg 122,175,147,200,45
+model_data/train/178.jpg 57,31,367,288,4
+model_data/train/86.jpg 24,29,49,63,1
+model_data/train/92.jpg 93,25,326,252,2
+model_data/train/84.jpg 91,94,111,117,1
+model_data/train/90.jpg 182,90,241,155,1
+model_data/train/146.jpg 17,7,62,26,3
+model_data/train/152.jpg 23,32,60,57,3
+model_data/train/634.jpg 264,189,282,211,45
+model_data/train/53.jpg 30,129,141,240,1
+model_data/train/185.jpg 8,13,25,41,4
+model_data/train/suppply8.jpg 102,219,117,249,20
+model_data/train/9fd24d9e08b8d359fdd53c3e77b65667.jpg 9,91,402,180,10 24,195,409,284,39
+model_data/train/24e534f2820fc23c9bc97cb2d131c578.jpg 150,52,286,82,41
+model_data/train/onehalf13.jpg 21,23,42,64,2
+model_data/train/1149.jpg 357,143,367,159,28
+model_data/train/4fcccf2949560d5ec00d287b7d028ddb.jpg 2,64,178,131,18 43,230,112,255,18 189,81,289,131,46 115,237,153,255,46
+model_data/train/suppply148.jpg 203,231,223,257,11
+model_data/train/suppply160.jpg 181,96,215,128,8 200,96,215,127,34
+model_data/train/b99cae56d5141f36cc691407ae1809b6.jpg 198,180,216,200,13 182,221,234,236,41
+model_data/train/cctvnew16.jpg 99,93,165,111,49
+model_data/train/1161.jpg 209,283,226,299,28
+model_data/train/393.jpg 146,138,277,265,9
+model_data/train/suppply174.jpg 155,37,327,64,48 80,35,150,76,25
+model_data/train/218.jpg 55,6,350,400,5
+model_data/train/230.jpg 134,94,274,309,5
+model_data/train/542.jpg 59,263,69,278,13
+model_data/train/224.jpg 19,29,394,401,5
+model_data/train/suppplies10.jpg 18,19,85,44,18 87,27,130,43,46 56,94,81,103,18
+model_data/train/1029.jpg 180,65,267,137,48 274,117,317,216,25
+model_data/train/cctv17.jpg 25,30,61,51,0 286,298,355,344,0
+model_data/train/1001.jpg 185,155,220,174,24
+model_data/train/suppplies38.jpg 128,31,305,66,44
+model_data/train/1015.jpg 379,115,393,132,24 243,263,267,290,24
+model_data/train/998.jpg 116,66,156,97,24
+model_data/train/967.jpg 206,256,230,288,23
+model_data/train/1203.jpg 176,136,197,209,29
+model_data/train/cctv3.jpg 39,27,94,49,0
+model_data/train/suppply21.jpg 251,187,401,269,30 23,68,238,318,6
+model_data/train/suppply35.jpg 151,87,177,125,22
+model_data/train/suppply34.jpg 160,77,332,174,30 48,8,149,149,6
+model_data/train/782.jpg 11,16,56,42,19
+model_data/train/onehalf3.jpg 135,183,152,217,2
+model_data/train/cctv2.jpg 302,96,391,133,0 13,145,49,165,0
+model_data/train/suppply20.jpg 15,141,137,302,6 155,138,396,252,30
+model_data/train/a6fc1cf80a40fd06a8c3c06fa9809ec8.jpg 174,133,238,156,41 178,34,234,116,13
+model_data/train/972.jpg 143,0,274,194,23
+model_data/train/1014.jpg 111,303,123,320,24
+model_data/train/580.jpg 217,26,381,276,13 205,334,387,379,41
+model_data/train/suppplies39.jpg 129,30,305,66,44
+model_data/train/594.jpg 114,102,209,119,14
+model_data/train/1000.jpg 264,198,285,214,24
+model_data/train/cctv16.jpg 149,171,220,203,0
+model_data/train/1028.jpg 25,115,76,199,25 76,84,302,184,48 269,225,322,244,48
+model_data/train/suppplies11.jpg 16,13,95,45,18 99,20,148,43,46
+model_data/train/543.jpg 136,61,279,274,13 134,316,283,349,41
+model_data/train/225.jpg 92,73,308,403,5
+model_data/train/231.jpg 59,26,326,370,5
+model_data/train/557.jpg 169,237,244,287,13
+model_data/train/219.jpg 114,75,290,260,5
+model_data/train/45628360d0d08cd1eb228738e2bdfc19.jpg 33,117,216,218,18 227,118,346,191,46
+model_data/train/timg-1.jpg 170,136,288,166,17
+model_data/train/1160.jpg 116,251,136,269,28
+model_data/train/cctvnew17.jpg 15,190,152,242,49
+model_data/train/b7a1b627032a6d97c0cfca4d44eac723.jpg 59,60,279,99,17
+model_data/train/392.jpg 148,190,268,313,9 46,10,288,54,35 286,10,374,55,36
+model_data/train/suppply175.jpg 141,155,223,194,48 240,136,312,229,25
+model_data/train/suppply161.jpg 81,12,298,98,19
+model_data/train/suppply149.jpg 35,100,376,254,19
+model_data/train/1148.jpg 83,212,97,235,28
+model_data/train/e68b69cb536800b1e777ff29a05bbe09.jpg 100,49,362,125,10 110,126,335,204,39
+model_data/train/onehalf12.jpg 27,51,352,262,35 353,198,396,277,36
+model_data/train/351.jpg 4,15,65,58,8 36,13,65,57,34
+model_data/train/deac052a298670af2e76372c73b74ad2.jpg 25,131,240,248,17
+model_data/train/190.jpg 91,389,125,408,4
+model_data/train/suppply9.jpg 102,219,134,277,20
+model_data/train/184.jpg 370,349,396,379,4
+model_data/train/e1cf7510391a3ea407669d5cfea81abf.jpg 64,2,263,32,15 0,0,54,35,45
+model_data/train/153.jpg 281,158,330,204,3
+model_data/train/621.jpg 306,216,319,232,45
+model_data/train/147.jpg 281,129,325,144,3
+model_data/train/370cd2a10f23da9f14130b40981f2f42.jpg 200,95,245,131,47
+model_data/train/609.jpg 251,131,323,175,14
