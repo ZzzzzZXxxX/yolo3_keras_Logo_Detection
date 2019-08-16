@@ -14,7 +14,7 @@
 链接:https://pan.baidu.com/s/1N9cTopyEcB-sqdw-FLs4Rw  密码:5cij
 ```
 #### 2. 修改yolo.py中第24行权重路径
-#### 3. 将需要检测旗帜图片放入sample文件夹中
+#### 3. 将需要检测图片放入sample文件夹中
 #### 4. 运行检测
 ```
 python yolo_images.py
