@@ -42,12 +42,7 @@ python kmeans.py
 python train.py
 ```
 
-## 数据集提供
-- logo（包含30个种类logo），数据来着于网络，数据标注是个苦力活，本数据包含千余张图片，花费接近一个星期标注完成，且用且珍惜!!!
-```
-链接:https://pan.baidu.com/s/12H1jS-rYOXt_jHzfk9Fw4w  密码:tgti
-```
-- 直接将两个文件夹放置于model_data下
+
 ## 项目环境依赖
 ```
 tensorflow                         1.13.1    
